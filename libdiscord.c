@@ -56,7 +56,7 @@
 // Prevent segfault in libpurple ssl plugins
 #define purple_ssl_read(a, b, c)  ((a) && (a)->private_data ? purple_ssl_read((a), (b), (c)) : 0)
 
-#define DISCORD_PLUGIN_ID "prpl-eionrobb-discord"
+#define DISCORD_PLUGIN_ID "prpl-discord"
 #ifndef DISCORD_PLUGIN_VERSION
 #define DISCORD_PLUGIN_VERSION "0.1"
 #endif
