@@ -1,0 +1,5 @@
+purple-discord (20240110-1) UNRELEASED; urgency=medium
+
+  * Initial release, builds and connects, but there is likely much to fix
+
+ -- Merlijn Wajer <merljn@wizzup.org>  Wed, 10 Jan 2024 17:39:58 +0100
